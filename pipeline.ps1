@@ -2,7 +2,7 @@
 $pastaProjeto = ""
 $veracodeID = ""
 $veracodeAPIkey = ""
-$veracodeAppName = "OnPremised.DVWA"
+$veracodeAppName = "OnPremised.Pipeline"
 $numeroVersao = Get-Date -Format hhmmssddMMyy
 $caminhoArquivo = "$env:LOCALAPPDATA/$numeroVersao.zip"
 
